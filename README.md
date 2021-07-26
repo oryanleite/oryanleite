@@ -2,7 +2,7 @@
 
 My name is Ryan Leite 👦🏾
 
-I'm a Full Stack developer, I'm 15 years old and I'm passionate about logic and programming.
+I'm a Back-end developer, I'm 15 years old and I'm passionate about logic and programming.
 
 ### "Reinventando conteúdo."
 
