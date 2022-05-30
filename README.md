@@ -6,7 +6,7 @@ I'm a Back-end developer, I'm 16 years old and I'm passionate about logic and pr
 
 ### "Reinventando conteúdo."
 
-- 📍 From Araraquara - SP
+- 📍 From São Paulo - SP
 - 💻 Dev full stack
 
 
