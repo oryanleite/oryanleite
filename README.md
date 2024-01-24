@@ -2,7 +2,7 @@
 
 My name is Ryan Leite 👦🏾
 
-I'm a Back-end developer, I'm 16 years old and I'm passionate about logic and programming.
+I'm a Back-end developer, I'm 18 years old and I'm passionate about logic and programming.
 
 ### "Reinventando conteúdo."
 
