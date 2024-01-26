@@ -12,7 +12,7 @@ I'm a FullStack developer, I'm 18 years old and I'm passionate about logic and p
 
 ## Techs:
 <p align>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/WORDPRESS-FFD43B?style=for-the-badge&logo=WORDPRESS&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -22,7 +22,7 @@ I'm a FullStack developer, I'm 18 years old and I'm passionate about logic and p
 
 #### Stay connected 👇🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-leite-520090205/)](https://www.linkedin.com/in/ryan-leite-520090205/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oryanleite/)](https://www.instagram.com/oryanleite/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryan-leite-520090205/)](https://www.linkedin.com/in/ryan-leite-520090205/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/oryanleite/)](https://www.instagram.com/oryanleite/) [![Behance Badge](https://img.shields.io/badge/-BEHANCE-black?style=flat-square&logo=BEHANCE&logoColor=white&link=https://www.behance.net/oryanleite)](https://www.behance.net/oryanleite)
 
 ## My stats: 
 
