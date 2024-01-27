@@ -2,7 +2,7 @@
 
 My name is Ryan Leite 👦🏾
 
-I'm a FullStack developer, I'm 18 years old and I'm passionate about logic and programming.
+I'm a FrontEnd Developer, I'm 18 years old and I'm passionate about logic and programming.
 
 ### "Reinventando conteúdo."
 
