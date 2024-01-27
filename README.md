@@ -7,7 +7,7 @@ I'm a FrontEnd Developer, I'm 18 years old and I'm passionate about logic and pr
 ### "Reinventando conteúdo."
 
 - 📍 From São Paulo - SP
-- 💻 Dev full stack
+- 💻 FrontEnd Developer
 
 
 ## Techs:
